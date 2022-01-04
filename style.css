@@ -1,0 +1,40 @@
+h1{
+    color:orange;
+}
+.recipe-item{
+    display: flex;
+}
+.singel-recipe img{
+    width:100%;
+}
+.singel-recipe{
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    border-radius: 5%;
+    box-shadow: 10px 10px 40px gray;
+} 
+.recipe-item p{
+    font-size: 20px;
+}
+.review{
+    width: 100%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 15%;
+}
+.number{
+    text-align: center;
+}
+.number h2{
+    background: -webkit-linear-gradient(blue, purple);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.review-shadow{
+    background-color: honeydew;
+    box-shadow: 5px 10px 12px gray;
+    border-radius: 5%;
+}
